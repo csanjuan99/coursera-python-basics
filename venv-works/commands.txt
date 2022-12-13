@@ -1,0 +1,7 @@
+python3 -m pip install --user --upgrade pip -> installing pip
+
+python3 -m venv env -> creating virtual enviroment in python 3
+
+source env/bin/activate -> activate venv
+
+deactivate 
